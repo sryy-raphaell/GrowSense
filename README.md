@@ -10,17 +10,17 @@ Repositori ini memuat hasil analisis dan perancangan untuk Tugas Kelompok Evalua
 
 ## Identitas Kelompok
 
-| | |
-| --- | --- |
-| Kelompok | 4 |
-| Mata kuliah | INF.62.0025 Analisis dan Desain Perangkat Lunak |
-| Dosen pengampu | Randi Proska Sandra, S.Pd, M.Sc |
-| Program studi | Informatika, Departemen Teknik Elektronika, Fakultas Teknik, Universitas Negeri Padang |
+|                |                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------- |
+| Kelompok       | 4                                                                                      |
+| Mata kuliah    | INF.62.0025 Analisis dan Desain Perangkat Lunak                                        |
+| Dosen pengampu | Randi Proska Sandra, S.Pd, M.Sc                                                        |
+| Program studi  | Informatika, Departemen Teknik Elektronika, Fakultas Teknik, Universitas Negeri Padang |
 
-| NIM | Nama |
-| --- | --- |
-| 24343073 | Nayaka Qinthar Fasya |
-| 24343087 | Facri Raihan |
+| NIM      | Nama                   |
+| -------- | ---------------------- |
+| 24343073 | Nayaka Qinthar Fasya   |
+| 24343087 | Facri Raihan           |
 | 25343077 | Rafael Tirtha Ramadhan |
 
 ---
@@ -63,13 +63,13 @@ Panel surya + baterai + pengatur daya --> beban prioritas (pompa, grow light, ES
 
 ## Teknologi
 
-| Lapisan | Teknologi |
-| --- | --- |
-| Perangkat | ESP32-S3, sensor pH, TDS/EC, suhu air, level air, suhu dan kelembapan udara, cahaya; relay; kamera |
-| AI | YOLOv8 (Python 3.10 atau lebih baru) |
-| Komunikasi | MQTT, JSON, HTTPS |
-| Aplikasi | Next.js, Prisma, PostgreSQL |
-| Daya | Panel surya, baterai, pengatur daya |
+| Lapisan    | Teknologi                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------- |
+| Perangkat  | ESP32-S3, sensor pH, TDS/EC, suhu air, level air, suhu dan kelembapan udara, cahaya; relay; kamera |
+| AI         | YOLOv8 (Python 3.10 atau lebih baru)                                                               |
+| Komunikasi | MQTT, JSON, HTTPS                                                                                  |
+| Aplikasi   | Next.js, Prisma, PostgreSQL                                                                        |
+| Daya       | Panel surya, baterai, pengatur daya                                                                |
 
 ## Struktur Repositori
 
@@ -91,11 +91,11 @@ GrowSense/
 
 ## Dokumen
 
-| Dokumen | Isi |
-| --- | --- |
-| [SRS](Dokumen/SRS.md) | 20 kebutuhan fungsional, kebutuhan nonfungsional terukur, antarmuka, dan Lampiran A sampai C |
-| [Use Case Specification](Dokumen/Use_Case_Specification.md) | Tiga use case utama dengan template Cockburn |
-| [RTM](Dokumen/RTM.md) | Matriks ketertelusuran kebutuhan ke use case dan konsep domain |
+| Dokumen                                                     | Isi                                                                                          |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [SRS](Dokumen/SRS.md)                                       | 20 kebutuhan fungsional, kebutuhan nonfungsional terukur, antarmuka, dan Lampiran A sampai C |
+| [Use Case Specification](Dokumen/Use_Case_Specification.md) | Tiga use case utama dengan template Cockburn                                                 |
+| [RTM](Dokumen/RTM.md)                                       | Matriks ketertelusuran kebutuhan ke use case dan konsep domain                               |
 
 ## Pendekatan Pengembangan
 
